@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GSE_PT</string>
+    <string name="id">Id:</string>
+    <string name="name">Name:</string>
+    <string name="username">Username:</string>
+    <string name="email">Email:</string>
+    <string name="phone">Phone:</string>
+    <string name="website">Website:</string>
+</resources>
